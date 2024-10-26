@@ -1,0 +1,12 @@
+models/User.class
+constants/Constants.class
+pages/ForgotPasswordPage.class
+pages/RegistrationPage.class
+models/UserResponse.class
+pages/BasePage.class
+pages/ProfilePage.class
+network/UserManager.class
+network/NetworkManager.class
+generator/ObjectGenerator.class
+pages/LoginPage.class
+pages/MainPage.class

@@ -1,0 +1,8 @@
+pagesTests/RegistrationPageTest.class
+pagesTests/BaseTest.class
+pagesTests/AccountTest.class
+browsers/Browser.class
+pagesTests/BaseTest$1.class
+pagesTests/ProfileNavigationTest.class
+pagesTests/ConstructorTest.class
+pagesTests/LoginTests.class
